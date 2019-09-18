@@ -7,3 +7,4 @@ Five Boroughs and neighborhood.
 Metrics (Age, Land Size and property type)
 
 
+![](images/090319recessionNYCjpg.png)
